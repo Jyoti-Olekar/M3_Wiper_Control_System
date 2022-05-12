@@ -28,4 +28,12 @@ Wiper Control System
 
 ## S.W.O.T Analysis
 ### Strength
-1. 
+1. It can be eaily and quickly installed in automobiles
+2. operation is very simple
+3. Simple and Portable
+4. Easy to implement
+
+
+### Weakness
+1. It is dependent on timer circuit
+
