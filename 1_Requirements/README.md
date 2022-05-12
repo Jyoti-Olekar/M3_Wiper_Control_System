@@ -25,3 +25,7 @@ Wiper Control System
 3. When: When there is rain, snow, dust and ice on a vehicle's front window
 4. Where: On vehicle's windshield
 5. How: Operates by the control module and relay
+
+## S.W.O.T Analysis
+### Strength
+1. 
