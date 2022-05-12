@@ -1,3 +1,3 @@
 ## Behavioral Diagram
 
-![behavioral_diagram](https://user-images.githubusercontent.com/101628611/168146567-f2a34a72-4c4d-45da-afce-f8d7ee3db0f1.jpeg)
+![Behavioral Diagram](https://user-images.githubusercontent.com/101628611/168156797-e39b8a3c-0d55-43d5-8296-0413baff5216.jpeg)
