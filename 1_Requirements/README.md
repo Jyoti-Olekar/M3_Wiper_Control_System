@@ -17,3 +17,11 @@
 5. Wiper blade
 6. Capacitor
 7. Resistor 
+
+## 4W's & 1H 
+1. What:
+Wiper Control System
+2. Why: To help the user drive safely
+3. When: When there is rain, snow, dust and ice on a vehicle's front window
+4. Where: On vehicle's windshield
+5. How: Operates by the control module and relay
