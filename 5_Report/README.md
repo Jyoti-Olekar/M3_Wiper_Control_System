@@ -35,8 +35,15 @@ This project works when the car is in start mode. The car starts or ignites when
 
  Hence, we aim to design a system that mainly works operating the button at and we are using one single button to perform all the operations i.e to start car(1st press) the red LED glows, to start wiper(2nd press) the blue, green and orange glows, to stop the wiper(3rd press) all the Blue, Green, Orange LED's stops glowing, to stop a car(4th press) red LED stops glowing.
  ## Advantages
- Maintaining your windscreen wipers is important especially during the rainy season. This feature is responsible for keeping your windshield and rear windows free from water and other contaminants, giving you a good view of the road even during challenging conditions. 
-Seeing clearly in rainy days can give people a sense of security and comfort.
+1.  Maintaining your windscreen wipers is important especially during the rainy season. This feature is responsible for keeping your windshield and rear windows free from water and other contaminants, giving you a good view of the road even during challenging conditions. 
+2. Seeing clearly in rainy days can give people a sense of security and comfort.
+3. It can be easily and quickly installed in automobiles
+4. Low power consumption
+5. Simple and Portable
+6. Easy to implement
+7. Cost Effective
 
  ## Disadvantages
-  The disadvantage is that the upper right corner of the windshield in the co driver's position can't be scraped, which may cause a blind area. Especially for the tall ones, there will be more on the upper half of the whole windshield when the wiper sweeps. In this case, if there is a blind area in this area, it will be a bit irritable. The cost performance of smooth scraping will be higher.
+ 1. The disadvantage is that the upper right corner of the windshield in the co driver's position can't be scraped, which may cause a blind area. Especially for the tall ones, there will be more on the upper half of the whole windshield when the wiper sweeps. In this case, if there is a blind area in this area, it will be a bit irritable.
+ 2. It is totally dependent on timer circuit
+ 3. The cost performance of smooth scraping will be higher.
