@@ -1,1 +1,6 @@
+## Abstract
+wipers form an essential part for any vehicle. They perform to remove water, ice, snow, and dust from a windshield of a vehicle. Almost all motor vehicle including cars, trucks, buses, train locomotives and watercraft with a cabin are equipped with one or more such wipers. A wiper generally consists of an aram, pivoting at one end and with a long rubber blade attached to the other. The blade is swung back and forth over the glass, pushing water from its surface. 
+
+This project works when the car is in start mode. The car starts or ignites when the user presses button and hold for 2 Seconds.The user can make the wiper working by pressing the same button for 2nd time that was used to start the car. Again when the button is pressed for 3rd time wiper stops moving as per the users wish. When you press the button for the 4th time the car stops. Hence, we aim to design a system that mainly works operating the button at and we are using one single button to perform all the operations i.e to start car(1st press) the red LED glows, to start wiper(2nd press) the blue, green and orange glows, to stop the wiper(3rd press) all the Blue, Green, Orange LED's stops glowing, to stop a car(4th press) red LED stops glowing.   
+
 
